@@ -1,12 +1,12 @@
 --[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+	
 ]]
 local DEADRAILS = true -- set to false if your not using dead rails
 
 
 getgenv().deletewhendupefound = true
 local lib = loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Lib-18698"))()
-lib.makelib("Destroyed. (2AreYouMental110)")
+lib.makelib("Pineapple (davidermeister)")
 local txtstuff = loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Text-to-Blocks-WIP-20736"))() 
 local t = lib.maketab("Main")
 local r = 0
