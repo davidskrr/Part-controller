@@ -1,7 +1,7 @@
 --[[
 	
 ]]
-local DEADRAILS = true -- set to false if your not using dead rails
+local DEADRAILS = false -- set to true if your using dead rails
 
 
 getgenv().deletewhendupefound = true
